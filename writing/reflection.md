@@ -20,10 +20,6 @@ TODO
 
 TODO
 
-### Discuss the project's two tests; what are they and how do they work? 
-
-TODO
-
 ## Professional Reflection
 
 ### What do you find most challenging about implementing and testing Python programs? Why?
