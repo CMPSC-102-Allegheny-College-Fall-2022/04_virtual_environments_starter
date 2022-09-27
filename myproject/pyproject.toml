@@ -5,6 +5,9 @@ description = ""
 authors = ["Oliver Bonham-Carter <obonhamcarter@allegheny.edu>"]
 readme = "README.md"
 
+[tool.poetry.scripts]
+myproject = "myproject.main:cli"
+
 [tool.poetry.dependencies]
 python = "^3.9"
 typer = "^0.6.1"
